@@ -1,0 +1,12 @@
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\bin\Debug\SteamConnectionBlocker.exe.config
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\bin\Debug\SteamConnectionBlocker.exe
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\bin\Debug\SteamConnectionBlocker.pdb
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamConnectionBlocker.csproj.AssemblyReference.cache
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamConnectionBlocker.Properties.Resources.resources
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamConnectionBlocker.csproj.GenerateResource.cache
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamConnectionBlocker.csproj.CoreCompileInputs.cache
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamConnectionBlocker.exe
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamConnectionBlocker.pdb
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\bin\Debug\MaterialSkin.dll
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamConnectionBlocker.Mainform.resources
+C:\Users\nightfall\Documents\C#\MyProjects\SteamConnectionBlocker\SteamConnectionBlocker\obj\Debug\SteamCon.F6D7BE3F.Up2Date
