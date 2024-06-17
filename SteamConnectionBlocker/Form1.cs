@@ -80,6 +80,5 @@ netsh advfirewall firewall delete rule name=""_02 Block steam(Program)""";
 
             File.Delete(tempFile);
         }
-
     }
 }
